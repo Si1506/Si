@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação, me segue nas redes abaixo!
+### Para conteúdo sobre programação, me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.discord.com/Si" target="_blank"><img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
