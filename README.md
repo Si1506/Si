@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Si1506 😁
+## Bem-vindo(a) ao perfil de Si1506 😁
 
  <div>
    <a href="https://github.com/Si1506">
